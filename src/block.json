@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "erik/wpcf7-composer",
+	"version": "0.1.0",
+	"title": "WPCF7 composer",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "",
+	"textdomain": "wpcf7-composer",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}
